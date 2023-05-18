@@ -17,7 +17,7 @@ st.sidebar.info(
    
  # Set the model engine and your OpenAI API key
 model_engine = "text-davinci-003"
-openai.api_key = "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" #follow step 4 to get a secret_key
+openai.api_key = "Your_api_key" #follow step 4 to get a secret_key
 
 
 def main():
@@ -25,7 +25,6 @@ def main():
     This function gets the user input, pass it to ChatGPT function and 
     displays the response
     '''
-    response ='1'
     # Get user input
     user_query = st.text_input("Enter query here, to exit enter :q", "")
     time.sleep(5)
