@@ -18,7 +18,7 @@ streamlit run app.py<br >
 ### Applications Screens:<br >
 
 Screem 1: Sample of Application running!  <br ><br >
-![Screenshot](frontend2.jpg)<br >
+![Screenshot](frontpage2.jpg)<br >
 
 Screem 2: Sample of Application running! <br ><br >
 ![Screenshot](frontend1.jpg)
