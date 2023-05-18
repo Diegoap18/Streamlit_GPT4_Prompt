@@ -1,4 +1,4 @@
-# Streamlit_GPT4_Prompt
+# Streamlit app for GPT4 Prompt
 This repository is to share a simple Streamlit prompt ChatGPT-4.  <br >
 
 
